@@ -1,7 +1,5 @@
 # Currents of the 2024 Typhoon Season
 
-## English
-
 ### The phenomenon
 
 Tropical cyclones are moving systems of wind and low pressure. Their tracks curve across the western North Pacific and the South China Sea while their intensity grows and weakens. I chose this phenomenon because a conventional track map shows position well but often makes speed and intensity feel secondary. This visualisation treats every six-hour movement as a current-like arrow, so the season appears as a field of motion rather than a collection of isolated storm symbols.

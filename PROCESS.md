@@ -1,7 +1,5 @@
 # Process
 
-## English
-
 ### Approach
 
 I followed the designer's path, with an animated treatment inspired by moving-current maps. I first inspected the raw CSV rather than beginning with a chart type. The useful dimensions were time, longitude, latitude and maximum surface wind. Two consecutive geographic positions define a movement direction, while wind speed can control both colour and stroke weight. This led to a visual grammar in which position remains position, an arrow remains motion, and orange/thicker marks mean stronger winds.
