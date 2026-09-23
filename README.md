@@ -15,6 +15,8 @@ The unchanged file is committed as `data/HKO2024BST.csv`. It contains **652 obse
 
 ### The picture
 
+![Still image of the 2024 tropical cyclone tracks](out/hko2024_intensity_lineage.svg)
+
 ![Still image of the 2024 tropical cyclone tracks](out/hko2024_currents.png)
 
 ![Animated 2024 tropical cyclone tracks](out/hko2024_currents.webp)
