@@ -1,0 +1,472 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1220" viewBox="0 0 1600 1220" role="img" aria-labelledby="title description">
+<style>
+        text{font-family:Inter,"Segoe UI",Arial,sans-serif;fill:#58402E}
+        .fade{opacity:0;animation:fade .9s ease forwards}
+        .petal{opacity:0;transform-box:fill-box;transform-origin:center;animation:bloom .9s cubic-bezier(.2,.8,.2,1) forwards;transition:opacity .2s,filter .2s}
+        .petal:hover{opacity:1;stroke:#58402E;stroke-width:2.4}
+        @keyframes fade{to{opacity:1}}
+        @keyframes bloom{from{opacity:0;transform:scale(.72) rotate(-2deg)}to{opacity:.88;transform:none}}
+        @media(prefers-reduced-motion:reduce){.fade,.petal{animation:none;opacity:.88;transform:none}}
+        </style>
+<title id="title">The 2024 cyclone season bloomed late</title>
+<desc id="description">Twenty-nine cyclone lifetimes form a radial calendar. Angle is date, angular width is duration, radius is peak wind, and colour is peak intensity.</desc>
+<rect width="1600" height="1220" rx="24" fill="#F0EFEB"/>
+<text x="62.0" y="60.0" font-size="14" font-weight="700" letter-spacing=".14em" fill="#7B6B5F">LUPI EDITORIAL · L10 RADIAL PATCHWORK · PALM</text>
+<text x="62.0" y="113.0" font-size="39" font-weight="750" letter-spacing="-.025em">The 2024 cyclone season bloomed late</text>
+<text x="62.0" y="153.0" font-size="17" fill="#7B6B5F">Angle = calendar date · petal width = track duration · reach = peak wind · colour = peak intensity</text>
+<line class="fade" x1="850.0" y1="226.0" x2="850.0" y2="206.0" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.000s"/>
+<line class="fade" x1="857.8" y1="220.1" x2="857.9" y2="213.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.001s"/>
+<line class="fade" x1="865.6" y1="220.3" x2="865.9" y2="213.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.002s"/>
+<line class="fade" x1="873.4" y1="220.6" x2="873.8" y2="213.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.004s"/>
+<line class="fade" x1="881.2" y1="221.1" x2="881.7" y2="214.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.005s"/>
+<line class="fade" x1="889.0" y1="221.7" x2="889.6" y2="214.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.006s"/>
+<line class="fade" x1="896.8" y1="222.4" x2="897.5" y2="215.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.007s"/>
+<line class="fade" x1="903.8" y1="229.2" x2="906.2" y2="209.4" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.008s"/>
+<line class="fade" x1="912.3" y1="224.3" x2="913.3" y2="217.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.010s"/>
+<line class="fade" x1="920.0" y1="225.4" x2="921.1" y2="218.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.011s"/>
+<line class="fade" x1="927.7" y1="226.7" x2="928.9" y2="219.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.012s"/>
+<line class="fade" x1="935.4" y1="228.1" x2="936.7" y2="221.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.013s"/>
+<line class="fade" x1="943.1" y1="229.6" x2="944.5" y2="222.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.014s"/>
+<line class="fade" x1="950.7" y1="231.3" x2="952.3" y2="224.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.016s"/>
+<line class="fade" x1="956.9" y1="238.9" x2="961.6" y2="219.5" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.017s"/>
+<line class="fade" x1="965.9" y1="235.0" x2="967.7" y2="228.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.018s"/>
+<line class="fade" x1="973.4" y1="237.1" x2="975.3" y2="230.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.019s"/>
+<line class="fade" x1="980.9" y1="239.2" x2="982.9" y2="232.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.020s"/>
+<line class="fade" x1="988.4" y1="241.6" x2="990.5" y2="234.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.022s"/>
+<line class="fade" x1="995.8" y1="244.0" x2="998.0" y2="237.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.023s"/>
+<line class="fade" x1="1003.2" y1="246.6" x2="1005.5" y2="240.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.024s"/>
+<line class="fade" x1="1008.4" y1="254.9" x2="1015.4" y2="236.1" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.025s"/>
+<line class="fade" x1="1017.8" y1="252.1" x2="1020.4" y2="245.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.026s"/>
+<line class="fade" x1="1025.0" y1="255.0" x2="1027.7" y2="248.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.028s"/>
+<line class="fade" x1="1032.2" y1="258.1" x2="1035.0" y2="251.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.029s"/>
+<line class="fade" x1="1039.3" y1="261.3" x2="1042.2" y2="254.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.030s"/>
+<line class="fade" x1="1046.4" y1="264.6" x2="1049.4" y2="258.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.031s"/>
+<line class="fade" x1="1053.4" y1="268.0" x2="1056.6" y2="261.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.032s"/>
+<line class="fade" x1="1057.6" y1="276.9" x2="1066.9" y2="259.1" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.034s"/>
+<line class="fade" x1="1067.3" y1="275.2" x2="1070.6" y2="269.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.035s"/>
+<line class="fade" x1="1074.1" y1="279.0" x2="1077.6" y2="272.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.036s"/>
+<line class="fade" x1="1080.9" y1="282.9" x2="1084.4" y2="276.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.037s"/>
+<line class="fade" x1="1087.6" y1="286.9" x2="1091.2" y2="281.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.038s"/>
+<line class="fade" x1="1094.2" y1="291.1" x2="1098.0" y2="285.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.040s"/>
+<line class="fade" x1="1100.8" y1="295.3" x2="1104.6" y2="289.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.041s"/>
+<line class="fade" x1="1103.8" y1="304.6" x2="1115.1" y2="288.1" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.042s"/>
+<line class="fade" x1="1113.6" y1="304.2" x2="1117.7" y2="298.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.043s"/>
+<line class="fade" x1="1120.0" y1="308.7" x2="1124.1" y2="303.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.044s"/>
+<line class="fade" x1="1126.2" y1="313.4" x2="1130.5" y2="307.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.046s"/>
+<line class="fade" x1="1132.4" y1="318.2" x2="1136.7" y2="312.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.047s"/>
+<line class="fade" x1="1138.5" y1="323.1" x2="1142.9" y2="317.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.048s"/>
+<line class="fade" x1="1144.5" y1="328.1" x2="1149.0" y2="322.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.049s"/>
+<line class="fade" x1="1146.4" y1="337.7" x2="1159.6" y2="322.7" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.050s"/>
+<line class="fade" x1="1156.2" y1="338.4" x2="1160.9" y2="333.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.052s"/>
+<line class="fade" x1="1161.9" y1="343.7" x2="1166.7" y2="338.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.053s"/>
+<line class="fade" x1="1167.6" y1="349.2" x2="1172.5" y2="344.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.054s"/>
+<line class="fade" x1="1173.1" y1="354.7" x2="1178.1" y2="349.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.055s"/>
+<line class="fade" x1="1178.6" y1="360.2" x2="1183.6" y2="355.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.056s"/>
+<line class="fade" x1="1183.9" y1="365.9" x2="1189.1" y2="361.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.058s"/>
+<line class="fade" x1="1184.7" y1="375.7" x2="1199.6" y2="362.4" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.059s"/>
+<line class="fade" x1="1194.3" y1="377.6" x2="1199.6" y2="373.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.060s"/>
+<line class="fade" x1="1199.4" y1="383.5" x2="1204.8" y2="379.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.061s"/>
+<line class="fade" x1="1204.3" y1="389.6" x2="1209.8" y2="385.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.062s"/>
+<line class="fade" x1="1209.2" y1="395.7" x2="1214.7" y2="391.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.064s"/>
+<line class="fade" x1="1213.9" y1="401.9" x2="1219.5" y2="397.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.065s"/>
+<line class="fade" x1="1218.6" y1="408.2" x2="1224.2" y2="404.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.066s"/>
+<line class="fade" x1="1218.2" y1="418.0" x2="1234.6" y2="406.5" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.067s"/>
+<line class="fade" x1="1227.5" y1="421.0" x2="1233.3" y2="417.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.068s"/>
+<line class="fade" x1="1231.8" y1="427.5" x2="1237.7" y2="423.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.070s"/>
+<line class="fade" x1="1236.0" y1="434.1" x2="1241.9" y2="430.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.071s"/>
+<line class="fade" x1="1240.1" y1="440.8" x2="1246.1" y2="437.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.072s"/>
+<line class="fade" x1="1244.0" y1="447.5" x2="1250.1" y2="444.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.073s"/>
+<line class="fade" x1="1247.9" y1="454.3" x2="1254.0" y2="450.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.074s"/>
+<line class="fade" x1="1246.3" y1="464.0" x2="1264.0" y2="454.6" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.076s"/>
+<line class="fade" x1="1255.2" y1="468.1" x2="1261.5" y2="464.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.077s"/>
+<line class="fade" x1="1258.7" y1="475.1" x2="1265.0" y2="472.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.078s"/>
+<line class="fade" x1="1262.1" y1="482.1" x2="1268.4" y2="479.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.079s"/>
+<line class="fade" x1="1265.3" y1="489.2" x2="1271.7" y2="486.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.080s"/>
+<line class="fade" x1="1268.5" y1="496.4" x2="1274.9" y2="493.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.082s"/>
+<line class="fade" x1="1271.5" y1="503.6" x2="1278.0" y2="501.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.083s"/>
+<line class="fade" x1="1268.8" y1="513.0" x2="1287.4" y2="505.8" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.084s"/>
+<line class="fade" x1="1277.1" y1="518.2" x2="1283.7" y2="515.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.085s"/>
+<line class="fade" x1="1279.7" y1="525.5" x2="1286.4" y2="523.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.086s"/>
+<line class="fade" x1="1282.2" y1="532.9" x2="1288.9" y2="530.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.088s"/>
+<line class="fade" x1="1284.6" y1="540.4" x2="1291.3" y2="538.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.089s"/>
+<line class="fade" x1="1286.9" y1="547.8" x2="1293.6" y2="545.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.090s"/>
+<line class="fade" x1="1289.0" y1="555.4" x2="1295.7" y2="553.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.091s"/>
+<line class="fade" x1="1285.2" y1="564.4" x2="1304.5" y2="559.5" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.092s"/>
+<line class="fade" x1="1292.8" y1="570.5" x2="1299.6" y2="568.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.094s"/>
+<line class="fade" x1="1294.6" y1="578.1" x2="1301.4" y2="576.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.095s"/>
+<line class="fade" x1="1296.2" y1="585.8" x2="1303.0" y2="584.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.096s"/>
+<line class="fade" x1="1297.6" y1="593.4" x2="1304.5" y2="592.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.097s"/>
+<line class="fade" x1="1299.0" y1="601.1" x2="1305.9" y2="600.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.098s"/>
+<line class="fade" x1="1300.2" y1="608.8" x2="1307.1" y2="607.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.100s"/>
+<line class="fade" x1="1295.3" y1="617.3" x2="1315.1" y2="614.8" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.101s"/>
+<line class="fade" x1="1302.2" y1="624.3" x2="1309.1" y2="623.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.102s"/>
+<line class="fade" x1="1303.0" y1="632.1" x2="1309.9" y2="631.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.103s"/>
+<line class="fade" x1="1303.6" y1="639.9" x2="1310.6" y2="639.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.104s"/>
+<line class="fade" x1="1304.2" y1="647.7" x2="1311.2" y2="647.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.106s"/>
+<line class="fade" x1="1304.6" y1="655.5" x2="1311.6" y2="655.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.107s"/>
+<line class="fade" x1="1304.8" y1="663.3" x2="1311.8" y2="663.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.108s"/>
+<line class="fade" x1="1299.0" y1="671.1" x2="1319.0" y2="671.0" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.109s"/>
+<line class="fade" x1="1305.0" y1="678.9" x2="1312.0" y2="679.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.110s"/>
+<line class="fade" x1="1304.8" y1="686.7" x2="1311.8" y2="686.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.112s"/>
+<line class="fade" x1="1304.6" y1="694.5" x2="1311.6" y2="694.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.113s"/>
+<line class="fade" x1="1304.2" y1="702.3" x2="1311.2" y2="702.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.114s"/>
+<line class="fade" x1="1303.6" y1="710.1" x2="1310.6" y2="710.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.115s"/>
+<line class="fade" x1="1303.0" y1="717.9" x2="1309.9" y2="718.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.116s"/>
+<line class="fade" x1="1296.2" y1="725.0" x2="1316.1" y2="727.2" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.118s"/>
+<line class="fade" x1="1301.2" y1="733.4" x2="1308.2" y2="734.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.119s"/>
+<line class="fade" x1="1300.2" y1="741.2" x2="1307.1" y2="742.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.120s"/>
+<line class="fade" x1="1299.0" y1="748.9" x2="1305.9" y2="750.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.121s"/>
+<line class="fade" x1="1297.6" y1="756.6" x2="1304.5" y2="757.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.122s"/>
+<line class="fade" x1="1296.2" y1="764.2" x2="1303.0" y2="765.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.124s"/>
+<line class="fade" x1="1294.6" y1="771.9" x2="1301.4" y2="773.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.125s"/>
+<line class="fade" x1="1287.0" y1="778.1" x2="1306.5" y2="782.7" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.126s"/>
+<line class="fade" x1="1291.0" y1="787.1" x2="1297.8" y2="788.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.127s"/>
+<line class="fade" x1="1289.0" y1="794.6" x2="1295.7" y2="796.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.128s"/>
+<line class="fade" x1="1286.9" y1="802.2" x2="1293.6" y2="804.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.130s"/>
+<line class="fade" x1="1284.6" y1="809.6" x2="1291.3" y2="811.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.131s"/>
+<line class="fade" x1="1282.2" y1="817.1" x2="1288.9" y2="819.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.132s"/>
+<line class="fade" x1="1279.7" y1="824.5" x2="1286.4" y2="826.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.133s"/>
+<line class="fade" x1="1271.5" y1="829.8" x2="1290.3" y2="836.7" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.134s"/>
+<line class="fade" x1="1274.4" y1="839.2" x2="1280.9" y2="841.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.136s"/>
+<line class="fade" x1="1271.5" y1="846.4" x2="1278.0" y2="849.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.137s"/>
+<line class="fade" x1="1268.5" y1="853.6" x2="1274.9" y2="856.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.138s"/>
+<line class="fade" x1="1265.3" y1="860.8" x2="1271.7" y2="863.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.139s"/>
+<line class="fade" x1="1262.1" y1="867.9" x2="1268.4" y2="870.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.140s"/>
+<line class="fade" x1="1258.7" y1="874.9" x2="1265.0" y2="878.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.142s"/>
+<line class="fade" x1="1249.9" y1="879.2" x2="1267.7" y2="888.3" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.143s"/>
+<line class="fade" x1="1251.6" y1="888.8" x2="1257.8" y2="892.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.144s"/>
+<line class="fade" x1="1247.9" y1="895.7" x2="1254.0" y2="899.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.145s"/>
+<line class="fade" x1="1244.0" y1="902.5" x2="1250.1" y2="906.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.146s"/>
+<line class="fade" x1="1240.1" y1="909.2" x2="1246.1" y2="912.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.148s"/>
+<line class="fade" x1="1236.0" y1="915.9" x2="1241.9" y2="919.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.149s"/>
+<line class="fade" x1="1231.8" y1="922.5" x2="1237.7" y2="926.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.150s"/>
+<line class="fade" x1="1222.5" y1="925.7" x2="1239.1" y2="936.8" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.151s"/>
+<line class="fade" x1="1223.1" y1="935.4" x2="1228.8" y2="939.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.152s"/>
+<line class="fade" x1="1218.6" y1="941.8" x2="1224.2" y2="945.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.154s"/>
+<line class="fade" x1="1213.9" y1="948.1" x2="1219.5" y2="952.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.155s"/>
+<line class="fade" x1="1209.2" y1="954.3" x2="1214.7" y2="958.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.156s"/>
+<line class="fade" x1="1204.3" y1="960.4" x2="1209.8" y2="964.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.157s"/>
+<line class="fade" x1="1199.4" y1="966.5" x2="1204.8" y2="971.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.158s"/>
+<line class="fade" x1="1189.8" y1="968.5" x2="1204.9" y2="981.6" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.160s"/>
+<line class="fade" x1="1189.2" y1="978.3" x2="1194.4" y2="983.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.161s"/>
+<line class="fade" x1="1183.9" y1="984.1" x2="1189.1" y2="988.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.162s"/>
+<line class="fade" x1="1178.6" y1="989.8" x2="1183.6" y2="994.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.163s"/>
+<line class="fade" x1="1173.1" y1="995.3" x2="1178.1" y2="1000.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.164s"/>
+<line class="fade" x1="1167.6" y1="1000.8" x2="1172.5" y2="1005.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.166s"/>
+<line class="fade" x1="1161.9" y1="1006.3" x2="1166.7" y2="1011.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.167s"/>
+<line class="fade" x1="1152.2" y1="1007.1" x2="1165.6" y2="1021.9" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.168s"/>
+<line class="fade" x1="1150.4" y1="1016.8" x2="1155.0" y2="1022.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.169s"/>
+<line class="fade" x1="1144.5" y1="1021.9" x2="1149.0" y2="1027.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.170s"/>
+<line class="fade" x1="1138.5" y1="1026.9" x2="1142.9" y2="1032.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.172s"/>
+<line class="fade" x1="1132.4" y1="1031.8" x2="1136.7" y2="1037.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.173s"/>
+<line class="fade" x1="1126.2" y1="1036.6" x2="1130.5" y2="1042.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.174s"/>
+<line class="fade" x1="1120.0" y1="1041.3" x2="1124.1" y2="1046.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.175s"/>
+<line class="fade" x1="1110.2" y1="1040.9" x2="1121.7" y2="1057.2" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.176s"/>
+<line class="fade" x1="1107.2" y1="1050.3" x2="1111.2" y2="1056.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.178s"/>
+<line class="fade" x1="1100.8" y1="1054.7" x2="1104.6" y2="1060.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.179s"/>
+<line class="fade" x1="1094.2" y1="1058.9" x2="1098.0" y2="1064.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.180s"/>
+<line class="fade" x1="1087.6" y1="1063.1" x2="1091.2" y2="1069.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.181s"/>
+<line class="fade" x1="1080.9" y1="1067.1" x2="1084.4" y2="1073.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.182s"/>
+<line class="fade" x1="1074.1" y1="1071.0" x2="1077.6" y2="1077.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.184s"/>
+<line class="fade" x1="1064.4" y1="1069.5" x2="1074.0" y2="1087.1" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.185s"/>
+<line class="fade" x1="1060.4" y1="1078.4" x2="1063.6" y2="1084.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.186s"/>
+<line class="fade" x1="1053.4" y1="1082.0" x2="1056.6" y2="1088.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.187s"/>
+<line class="fade" x1="1046.4" y1="1085.4" x2="1049.4" y2="1091.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.188s"/>
+<line class="fade" x1="1039.3" y1="1088.7" x2="1042.2" y2="1095.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.190s"/>
+<line class="fade" x1="1032.2" y1="1091.9" x2="1035.0" y2="1098.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.191s"/>
+<line class="fade" x1="1025.0" y1="1095.0" x2="1027.7" y2="1101.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.192s"/>
+<line class="fade" x1="1015.6" y1="1092.4" x2="1022.9" y2="1110.9" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.193s"/>
+<line class="fade" x1="1010.5" y1="1100.8" x2="1013.0" y2="1107.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.194s"/>
+<line class="fade" x1="1003.2" y1="1103.4" x2="1005.5" y2="1110.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.196s"/>
+<line class="fade" x1="995.8" y1="1106.0" x2="998.0" y2="1112.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.197s"/>
+<line class="fade" x1="988.4" y1="1108.4" x2="990.5" y2="1115.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.198s"/>
+<line class="fade" x1="980.9" y1="1110.8" x2="982.9" y2="1117.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.199s"/>
+<line class="fade" x1="973.4" y1="1112.9" x2="975.3" y2="1119.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.200s"/>
+<line class="fade" x1="964.3" y1="1109.2" x2="969.4" y2="1128.5" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.202s"/>
+<line class="fade" x1="958.3" y1="1116.9" x2="960.0" y2="1123.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.203s"/>
+<line class="fade" x1="950.7" y1="1118.7" x2="952.3" y2="1125.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.204s"/>
+<line class="fade" x1="943.1" y1="1120.4" x2="944.5" y2="1127.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.205s"/>
+<line class="fade" x1="935.4" y1="1121.9" x2="936.7" y2="1128.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.206s"/>
+<line class="fade" x1="927.7" y1="1123.3" x2="928.9" y2="1130.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.208s"/>
+<line class="fade" x1="920.0" y1="1124.6" x2="921.1" y2="1131.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.209s"/>
+<line class="fade" x1="911.5" y1="1119.8" x2="914.2" y2="1139.6" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.210s"/>
+<line class="fade" x1="904.5" y1="1126.7" x2="905.4" y2="1133.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.211s"/>
+<line class="fade" x1="896.8" y1="1127.6" x2="897.5" y2="1134.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.212s"/>
+<line class="fade" x1="889.0" y1="1128.3" x2="889.6" y2="1135.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.214s"/>
+<line class="fade" x1="881.2" y1="1128.9" x2="881.7" y2="1135.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.215s"/>
+<line class="fade" x1="873.4" y1="1129.4" x2="873.8" y2="1136.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.216s"/>
+<line class="fade" x1="865.6" y1="1129.7" x2="865.9" y2="1136.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.217s"/>
+<line class="fade" x1="857.7" y1="1123.9" x2="858.1" y2="1143.9" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.218s"/>
+<line class="fade" x1="850.0" y1="1130.0" x2="850.0" y2="1137.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.220s"/>
+<line class="fade" x1="842.2" y1="1129.9" x2="842.1" y2="1136.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.221s"/>
+<line class="fade" x1="834.4" y1="1129.7" x2="834.1" y2="1136.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.222s"/>
+<line class="fade" x1="826.6" y1="1129.4" x2="826.2" y2="1136.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.223s"/>
+<line class="fade" x1="818.8" y1="1128.9" x2="818.3" y2="1135.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.224s"/>
+<line class="fade" x1="811.0" y1="1128.3" x2="810.4" y2="1135.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.226s"/>
+<line class="fade" x1="803.8" y1="1121.6" x2="801.8" y2="1141.5" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.227s"/>
+<line class="fade" x1="795.5" y1="1126.7" x2="794.6" y2="1133.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.228s"/>
+<line class="fade" x1="787.7" y1="1125.7" x2="786.7" y2="1132.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.229s"/>
+<line class="fade" x1="780.0" y1="1124.6" x2="778.9" y2="1131.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.230s"/>
+<line class="fade" x1="772.3" y1="1123.3" x2="771.1" y2="1130.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.232s"/>
+<line class="fade" x1="764.6" y1="1121.9" x2="763.3" y2="1128.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.233s"/>
+<line class="fade" x1="756.9" y1="1120.4" x2="755.5" y2="1127.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.234s"/>
+<line class="fade" x1="750.6" y1="1112.9" x2="746.2" y2="1132.4" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.235s"/>
+<line class="fade" x1="741.7" y1="1116.9" x2="740.0" y2="1123.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.236s"/>
+<line class="fade" x1="734.1" y1="1115.0" x2="732.3" y2="1121.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.238s"/>
+<line class="fade" x1="726.6" y1="1112.9" x2="724.7" y2="1119.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.239s"/>
+<line class="fade" x1="719.1" y1="1110.8" x2="717.1" y2="1117.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.240s"/>
+<line class="fade" x1="711.6" y1="1108.4" x2="709.5" y2="1115.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.241s"/>
+<line class="fade" x1="704.2" y1="1106.0" x2="702.0" y2="1112.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.242s"/>
+<line class="fade" x1="698.8" y1="1097.8" x2="692.1" y2="1116.6" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.244s"/>
+<line class="fade" x1="689.5" y1="1100.8" x2="687.0" y2="1107.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.245s"/>
+<line class="fade" x1="682.2" y1="1097.9" x2="679.6" y2="1104.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.246s"/>
+<line class="fade" x1="675.0" y1="1095.0" x2="672.3" y2="1101.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.247s"/>
+<line class="fade" x1="667.8" y1="1091.9" x2="665.0" y2="1098.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.248s"/>
+<line class="fade" x1="660.7" y1="1088.7" x2="657.8" y2="1095.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.250s"/>
+<line class="fade" x1="653.6" y1="1085.4" x2="650.6" y2="1091.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.251s"/>
+<line class="fade" x1="649.3" y1="1076.6" x2="640.3" y2="1094.5" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.252s"/>
+<line class="fade" x1="639.6" y1="1078.4" x2="636.4" y2="1084.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.253s"/>
+<line class="fade" x1="632.7" y1="1074.8" x2="629.4" y2="1080.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.254s"/>
+<line class="fade" x1="625.9" y1="1071.0" x2="622.4" y2="1077.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.256s"/>
+<line class="fade" x1="619.1" y1="1067.1" x2="615.6" y2="1073.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.257s"/>
+<line class="fade" x1="612.4" y1="1063.1" x2="608.8" y2="1069.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.258s"/>
+<line class="fade" x1="605.8" y1="1058.9" x2="602.0" y2="1064.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.259s"/>
+<line class="fade" x1="602.6" y1="1049.7" x2="591.5" y2="1066.4" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.260s"/>
+<line class="fade" x1="592.8" y1="1050.3" x2="588.8" y2="1056.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.262s"/>
+<line class="fade" x1="586.4" y1="1045.8" x2="582.3" y2="1051.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.263s"/>
+<line class="fade" x1="580.0" y1="1041.3" x2="575.9" y2="1046.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.264s"/>
+<line class="fade" x1="573.8" y1="1036.6" x2="569.5" y2="1042.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.265s"/>
+<line class="fade" x1="567.6" y1="1031.8" x2="563.3" y2="1037.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.266s"/>
+<line class="fade" x1="561.5" y1="1026.9" x2="557.1" y2="1032.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.268s"/>
+<line class="fade" x1="559.4" y1="1017.3" x2="546.5" y2="1032.5" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.269s"/>
+<line class="fade" x1="549.6" y1="1016.8" x2="545.0" y2="1022.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.270s"/>
+<line class="fade" x1="543.8" y1="1011.6" x2="539.1" y2="1016.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.271s"/>
+<line class="fade" x1="538.1" y1="1006.3" x2="533.3" y2="1011.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.272s"/>
+<line class="fade" x1="532.4" y1="1000.8" x2="527.5" y2="1005.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.274s"/>
+<line class="fade" x1="526.9" y1="995.3" x2="521.9" y2="1000.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.275s"/>
+<line class="fade" x1="521.4" y1="989.8" x2="516.4" y2="994.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.276s"/>
+<line class="fade" x1="520.5" y1="980.0" x2="505.8" y2="993.6" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.277s"/>
+<line class="fade" x1="510.8" y1="978.3" x2="505.6" y2="983.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.278s"/>
+<line class="fade" x1="505.7" y1="972.4" x2="500.4" y2="977.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.280s"/>
+<line class="fade" x1="500.6" y1="966.5" x2="495.2" y2="971.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.281s"/>
+<line class="fade" x1="495.7" y1="960.4" x2="490.2" y2="964.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.282s"/>
+<line class="fade" x1="490.8" y1="954.3" x2="485.3" y2="958.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.283s"/>
+<line class="fade" x1="486.1" y1="948.1" x2="480.5" y2="952.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.284s"/>
+<line class="fade" x1="486.3" y1="938.3" x2="470.1" y2="950.0" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.286s"/>
+<line class="fade" x1="476.9" y1="935.4" x2="471.2" y2="939.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.287s"/>
+<line class="fade" x1="472.5" y1="929.0" x2="466.7" y2="932.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.288s"/>
+<line class="fade" x1="468.2" y1="922.5" x2="462.3" y2="926.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.289s"/>
+<line class="fade" x1="464.0" y1="915.9" x2="458.1" y2="919.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.290s"/>
+<line class="fade" x1="459.9" y1="909.2" x2="453.9" y2="912.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.292s"/>
+<line class="fade" x1="456.0" y1="902.5" x2="449.9" y2="906.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.293s"/>
+<line class="fade" x1="457.4" y1="892.8" x2="439.9" y2="902.5" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.294s"/>
+<line class="fade" x1="448.4" y1="888.8" x2="442.2" y2="892.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.295s"/>
+<line class="fade" x1="444.8" y1="881.9" x2="438.5" y2="885.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.296s"/>
+<line class="fade" x1="441.3" y1="874.9" x2="435.0" y2="878.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.298s"/>
+<line class="fade" x1="437.9" y1="867.9" x2="431.6" y2="870.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.299s"/>
+<line class="fade" x1="434.7" y1="860.8" x2="428.3" y2="863.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.300s"/>
+<line class="fade" x1="431.5" y1="853.6" x2="425.1" y2="856.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.301s"/>
+<line class="fade" x1="434.1" y1="844.2" x2="415.6" y2="851.7" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.302s"/>
+<line class="fade" x1="425.6" y1="839.2" x2="419.1" y2="841.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.304s"/>
+<line class="fade" x1="422.9" y1="831.8" x2="416.3" y2="834.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.305s"/>
+<line class="fade" x1="420.3" y1="824.5" x2="413.6" y2="826.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.306s"/>
+<line class="fade" x1="417.8" y1="817.1" x2="411.1" y2="819.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.307s"/>
+<line class="fade" x1="415.4" y1="809.6" x2="408.7" y2="811.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.308s"/>
+<line class="fade" x1="413.1" y1="802.2" x2="406.4" y2="804.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.310s"/>
+<line class="fade" x1="416.8" y1="793.1" x2="397.5" y2="798.3" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.311s"/>
+<line class="fade" x1="409.0" y1="787.1" x2="402.2" y2="788.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.312s"/>
+<line class="fade" x1="407.2" y1="779.5" x2="400.4" y2="781.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.313s"/>
+<line class="fade" x1="405.4" y1="771.9" x2="398.6" y2="773.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.314s"/>
+<line class="fade" x1="403.8" y1="764.2" x2="397.0" y2="765.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.316s"/>
+<line class="fade" x1="402.4" y1="756.6" x2="395.5" y2="757.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.317s"/>
+<line class="fade" x1="401.0" y1="748.9" x2="394.1" y2="750.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.318s"/>
+<line class="fade" x1="405.8" y1="740.3" x2="386.0" y2="743.2" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.319s"/>
+<line class="fade" x1="398.8" y1="733.4" x2="391.8" y2="734.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.320s"/>
+<line class="fade" x1="397.8" y1="725.7" x2="390.9" y2="726.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.322s"/>
+<line class="fade" x1="397.0" y1="717.9" x2="390.1" y2="718.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.323s"/>
+<line class="fade" x1="396.4" y1="710.1" x2="389.4" y2="710.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.324s"/>
+<line class="fade" x1="395.8" y1="702.3" x2="388.8" y2="702.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.325s"/>
+<line class="fade" x1="395.4" y1="694.5" x2="388.4" y2="694.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.326s"/>
+<line class="fade" x1="401.1" y1="686.6" x2="381.2" y2="687.1" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.328s"/>
+<line class="fade" x1="395.0" y1="678.9" x2="388.0" y2="679.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.329s"/>
+<line class="fade" x1="395.0" y1="671.1" x2="388.0" y2="671.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.330s"/>
+<line class="fade" x1="395.2" y1="663.3" x2="388.2" y2="663.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.331s"/>
+<line class="fade" x1="395.4" y1="655.5" x2="388.4" y2="655.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.332s"/>
+<line class="fade" x1="395.8" y1="647.7" x2="388.8" y2="647.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.334s"/>
+<line class="fade" x1="396.4" y1="639.9" x2="389.4" y2="639.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.335s"/>
+<line class="fade" x1="403.0" y1="632.7" x2="383.1" y2="630.8" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.336s"/>
+<line class="fade" x1="397.8" y1="624.3" x2="390.9" y2="623.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.337s"/>
+<line class="fade" x1="398.8" y1="616.6" x2="391.8" y2="615.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.338s"/>
+<line class="fade" x1="399.8" y1="608.8" x2="392.9" y2="607.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.340s"/>
+<line class="fade" x1="401.0" y1="601.1" x2="394.1" y2="600.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.341s"/>
+<line class="fade" x1="402.4" y1="593.4" x2="395.5" y2="592.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.342s"/>
+<line class="fade" x1="403.8" y1="585.8" x2="397.0" y2="584.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.343s"/>
+<line class="fade" x1="411.3" y1="579.4" x2="391.8" y2="575.1" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.344s"/>
+<line class="fade" x1="407.2" y1="570.5" x2="400.4" y2="568.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.346s"/>
+<line class="fade" x1="409.0" y1="562.9" x2="402.2" y2="561.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.347s"/>
+<line class="fade" x1="411.0" y1="555.4" x2="404.3" y2="553.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.348s"/>
+<line class="fade" x1="413.1" y1="547.8" x2="406.4" y2="545.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.349s"/>
+<line class="fade" x1="415.4" y1="540.4" x2="408.7" y2="538.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.350s"/>
+<line class="fade" x1="417.8" y1="532.9" x2="411.1" y2="530.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.352s"/>
+<line class="fade" x1="425.9" y1="527.5" x2="407.0" y2="520.9" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.353s"/>
+<line class="fade" x1="422.9" y1="518.2" x2="416.3" y2="515.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.354s"/>
+<line class="fade" x1="425.6" y1="510.8" x2="419.1" y2="508.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.355s"/>
+<line class="fade" x1="428.5" y1="503.6" x2="422.0" y2="501.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.356s"/>
+<line class="fade" x1="431.5" y1="496.4" x2="425.1" y2="493.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.358s"/>
+<line class="fade" x1="434.7" y1="489.2" x2="428.3" y2="486.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.359s"/>
+<line class="fade" x1="437.9" y1="482.1" x2="431.6" y2="479.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.360s"/>
+<line class="fade" x1="446.7" y1="477.7" x2="428.7" y2="468.9" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.361s"/>
+<line class="fade" x1="444.8" y1="468.1" x2="438.5" y2="464.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.362s"/>
+<line class="fade" x1="448.4" y1="461.2" x2="442.2" y2="457.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.364s"/>
+<line class="fade" x1="452.1" y1="454.3" x2="446.0" y2="450.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.365s"/>
+<line class="fade" x1="456.0" y1="447.5" x2="449.9" y2="444.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.366s"/>
+<line class="fade" x1="459.9" y1="440.8" x2="453.9" y2="437.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.367s"/>
+<line class="fade" x1="464.0" y1="434.1" x2="458.1" y2="430.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.368s"/>
+<line class="fade" x1="473.2" y1="430.8" x2="456.4" y2="419.9" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.370s"/>
+<line class="fade" x1="472.5" y1="421.0" x2="466.7" y2="417.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.371s"/>
+<line class="fade" x1="476.9" y1="414.6" x2="471.2" y2="410.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.372s"/>
+<line class="fade" x1="481.4" y1="408.2" x2="475.8" y2="404.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.373s"/>
+<line class="fade" x1="486.1" y1="401.9" x2="480.5" y2="397.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.374s"/>
+<line class="fade" x1="490.8" y1="395.7" x2="485.3" y2="391.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.376s"/>
+<line class="fade" x1="495.7" y1="389.6" x2="490.2" y2="385.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.377s"/>
+<line class="fade" x1="505.2" y1="387.4" x2="489.9" y2="374.6" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.378s"/>
+<line class="fade" x1="505.7" y1="377.6" x2="500.4" y2="373.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.379s"/>
+<line class="fade" x1="510.8" y1="371.7" x2="505.6" y2="367.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.380s"/>
+<line class="fade" x1="516.1" y1="365.9" x2="510.9" y2="361.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.382s"/>
+<line class="fade" x1="521.4" y1="360.2" x2="516.4" y2="355.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.383s"/>
+<line class="fade" x1="526.9" y1="354.7" x2="521.9" y2="349.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.384s"/>
+<line class="fade" x1="532.4" y1="349.2" x2="527.5" y2="344.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.385s"/>
+<line class="fade" x1="542.2" y1="348.1" x2="528.5" y2="333.6" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.386s"/>
+<line class="fade" x1="543.8" y1="338.4" x2="539.1" y2="333.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.388s"/>
+<line class="fade" x1="549.6" y1="333.2" x2="545.0" y2="328.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.389s"/>
+<line class="fade" x1="555.5" y1="328.1" x2="551.0" y2="322.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.390s"/>
+<line class="fade" x1="561.5" y1="323.1" x2="557.1" y2="317.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.391s"/>
+<line class="fade" x1="567.6" y1="318.2" x2="563.3" y2="312.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.392s"/>
+<line class="fade" x1="573.8" y1="313.4" x2="569.5" y2="307.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.394s"/>
+<line class="fade" x1="583.6" y1="313.6" x2="571.7" y2="297.5" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.395s"/>
+<line class="fade" x1="586.4" y1="304.2" x2="582.3" y2="298.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.396s"/>
+<line class="fade" x1="592.8" y1="299.7" x2="588.8" y2="293.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.397s"/>
+<line class="fade" x1="599.2" y1="295.3" x2="595.4" y2="289.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.398s"/>
+<line class="fade" x1="605.8" y1="291.1" x2="602.0" y2="285.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.400s"/>
+<line class="fade" x1="612.4" y1="286.9" x2="608.8" y2="281.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.401s"/>
+<line class="fade" x1="619.1" y1="282.9" x2="615.6" y2="276.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.402s"/>
+<line class="fade" x1="628.8" y1="284.2" x2="619.0" y2="266.8" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.403s"/>
+<line class="fade" x1="632.7" y1="275.2" x2="629.4" y2="269.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.404s"/>
+<line class="fade" x1="639.6" y1="271.6" x2="636.4" y2="265.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.406s"/>
+<line class="fade" x1="646.6" y1="268.0" x2="643.4" y2="261.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.407s"/>
+<line class="fade" x1="653.6" y1="264.6" x2="650.6" y2="258.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.408s"/>
+<line class="fade" x1="660.7" y1="261.3" x2="657.8" y2="254.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.409s"/>
+<line class="fade" x1="667.8" y1="258.1" x2="665.0" y2="251.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.410s"/>
+<line class="fade" x1="677.3" y1="260.5" x2="669.6" y2="242.1" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.412s"/>
+<line class="fade" x1="682.2" y1="252.1" x2="679.6" y2="245.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.413s"/>
+<line class="fade" x1="689.5" y1="249.2" x2="687.0" y2="242.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.414s"/>
+<line class="fade" x1="696.8" y1="246.6" x2="694.5" y2="240.0" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.415s"/>
+<line class="fade" x1="704.2" y1="244.0" x2="702.0" y2="237.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.416s"/>
+<line class="fade" x1="711.6" y1="241.6" x2="709.5" y2="234.9" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.418s"/>
+<line class="fade" x1="719.1" y1="239.2" x2="717.1" y2="232.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.419s"/>
+<line class="fade" x1="728.2" y1="242.8" x2="722.8" y2="223.6" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.420s"/>
+<line class="fade" x1="734.1" y1="235.0" x2="732.3" y2="228.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.421s"/>
+<line class="fade" x1="741.7" y1="233.1" x2="740.0" y2="226.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.422s"/>
+<line class="fade" x1="749.3" y1="231.3" x2="747.7" y2="224.5" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.424s"/>
+<line class="fade" x1="756.9" y1="229.6" x2="755.5" y2="222.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.425s"/>
+<line class="fade" x1="764.6" y1="228.1" x2="763.3" y2="221.2" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.426s"/>
+<line class="fade" x1="772.3" y1="226.7" x2="771.1" y2="219.8" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.427s"/>
+<line class="fade" x1="780.9" y1="231.3" x2="777.8" y2="211.6" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.428s"/>
+<line class="fade" x1="787.7" y1="224.3" x2="786.7" y2="217.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.430s"/>
+<line class="fade" x1="795.5" y1="223.3" x2="794.6" y2="216.3" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.431s"/>
+<line class="fade" x1="803.2" y1="222.4" x2="802.5" y2="215.4" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.432s"/>
+<line class="fade" x1="811.0" y1="221.7" x2="810.4" y2="214.7" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.433s"/>
+<line class="fade" x1="818.8" y1="221.1" x2="818.3" y2="214.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.434s"/>
+<line class="fade" x1="826.6" y1="220.6" x2="826.2" y2="213.6" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.436s"/>
+<line class="fade" x1="834.6" y1="226.3" x2="833.9" y2="206.3" stroke="#D2CCC4" stroke-width="1.3" style="animation-delay:0.437s"/>
+<line class="fade" x1="842.2" y1="220.1" x2="842.1" y2="213.1" stroke="#D2CCC4" stroke-width="0.65" style="animation-delay:0.438s"/>
+<line x1="850.0" y1="593.0" x2="850.0" y2="228.0" stroke="#D2CCC4" stroke-width="1" stroke-dasharray="3 7"/>
+<text x="850.0" y="188.0" font-size="12" font-weight="800" text-anchor="middle" fill="#7B6B5F">JAN</text>
+<line x1="891.6" y1="604.3" x2="1076.8" y2="289.8" stroke="#D2CCC4" stroke-width="1" stroke-dasharray="3 7"/>
+<text x="1099.6" y="256.0" font-size="12" font-weight="800" text-anchor="middle" fill="#7B6B5F">FEB</text>
+<line x1="920.3" y1="632.8" x2="1233.2" y2="444.9" stroke="#D2CCC4" stroke-width="1" stroke-dasharray="3 7"/>
+<text x="1271.8" y="426.7" font-size="12" font-weight="800" text-anchor="middle" fill="#7B6B5F">MAR</text>
+<line x1="932.0" y1="674.3" x2="1297.0" y2="671.2" stroke="#D2CCC4" stroke-width="1" stroke-dasharray="3 7"/>
+<text x="1342.0" y="675.8" font-size="12" font-weight="800" text-anchor="middle" fill="#7B6B5F">APR</text>
+<line x1="921.7" y1="714.8" x2="1240.9" y2="891.8" stroke="#D2CCC4" stroke-width="1" stroke-dasharray="3 7"/>
+<text x="1280.2" y="918.6" font-size="12" font-weight="800" text-anchor="middle" fill="#7B6B5F">MAY</text>
+<line x1="891.6" y1="745.7" x2="1076.8" y2="1060.2" stroke="#D2CCC4" stroke-width="1" stroke-dasharray="3 7"/>
+<text x="1099.6" y="1104.0" font-size="12" font-weight="800" text-anchor="middle" fill="#7B6B5F">JUN</text>
+<line x1="851.4" y1="757.0" x2="857.7" y2="1121.9" stroke="#D2CCC4" stroke-width="1" stroke-dasharray="3 7"/>
+<text x="858.4" y="1171.9" font-size="12" font-weight="800" text-anchor="middle" fill="#7B6B5F">JUL</text>
+<line x1="809.6" y1="746.4" x2="629.8" y2="1064.0" stroke="#D2CCC4" stroke-width="1" stroke-dasharray="3 7"/>
+<text x="607.7" y="1108.2" font-size="12" font-weight="800" text-anchor="middle" fill="#7B6B5F">AUG</text>
+<line x1="779.0" y1="716.0" x2="462.9" y2="898.5" stroke="#D2CCC4" stroke-width="1" stroke-dasharray="3 7"/>
+<text x="423.9" y="926.0" font-size="12" font-weight="800" text-anchor="middle" fill="#7B6B5F">SEP</text>
+<line x1="768.0" y1="675.7" x2="403.0" y2="678.8" stroke="#D2CCC4" stroke-width="1" stroke-dasharray="3 7"/>
+<text x="358.0" y="684.2" font-size="12" font-weight="800" text-anchor="middle" fill="#7B6B5F">OCT</text>
+<line x1="779.0" y1="634.0" x2="462.9" y2="451.5" stroke="#D2CCC4" stroke-width="1" stroke-dasharray="3 7"/>
+<text x="423.9" y="434.0" font-size="12" font-weight="800" text-anchor="middle" fill="#7B6B5F">NOV</text>
+<line x1="808.4" y1="604.3" x2="623.2" y2="289.8" stroke="#D2CCC4" stroke-width="1" stroke-dasharray="3 7"/>
+<text x="600.4" y="256.0" font-size="12" font-weight="800" text-anchor="middle" fill="#7B6B5F">DEC</text>
+<circle cx="850" cy="675" r="154.0" fill="none" stroke="#D2CCC4" stroke-width="1" stroke-dasharray="2 8"/>
+<text x="858.0" y="536.0" font-size="10.5" font-weight="700" fill="#7B6B5F">25 KT</text>
+<circle cx="850" cy="675" r="225.2" fill="none" stroke="#D2CCC4" stroke-width="1" stroke-dasharray="2 8"/>
+<text x="858.0" y="464.8" font-size="10.5" font-weight="700" fill="#7B6B5F">50 KT</text>
+<circle cx="850" cy="675" r="296.5" fill="none" stroke="#D2CCC4" stroke-width="1" stroke-dasharray="2 8"/>
+<text x="858.0" y="393.5" font-size="10.5" font-weight="700" fill="#7B6B5F">75 KT</text>
+<circle cx="850" cy="675" r="367.8" fill="none" stroke="#D2CCC4" stroke-width="1" stroke-dasharray="2 8"/>
+<text x="858.0" y="322.2" font-size="10.5" font-weight="700" fill="#7B6B5F">100 KT</text>
+<circle cx="850" cy="675" r="439.0" fill="none" stroke="#D2CCC4" stroke-width="1" stroke-dasharray="2 8"/>
+<text x="858.0" y="251.0" font-size="10.5" font-weight="700" fill="#7B6B5F">125 KT</text>
+<path class="petal" d="M1034.01,907.49 A296.50,296.50 0 0 1 1009.13,925.18 L899.38,752.63 A92.00,92.00 0 0 0 907.10,747.14 Z" fill="#929960" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.180s"><title>EWINIAR | 24 May–30 May 2024 | 6.0 days | peak 75 kt | 965 hPa | T</title></path>
+<path class="petal" d="M946.95,829.62 A182.50,182.50 0 0 1 941.93,832.66 L896.34,754.48 A92.00,92.00 0 0 0 898.88,752.94 Z" fill="#5A7049" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.208s"><title>MALIKSI | 30 May–01 Jun 2024 | 1.9 days | peak 35 kt | 996 hPa | TS</title></path>
+<path class="petal" d="M820.12,826.07 A154.00,154.00 0 0 1 814.95,824.96 L829.06,764.59 A92.00,92.00 0 0 0 832.15,765.25 Z" fill="#43593B" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.236s"><title>UNNAMED-0003 | 13 Jul–15 Jul 2024 | 2.0 days | peak 25 kt | 998 hPa | TD</title></path>
+<path class="petal" d="M780.11,904.08 A239.50,239.50 0 0 1 764.07,898.56 L816.99,760.88 A92.00,92.00 0 0 0 823.15,763.00 Z" fill="#77835A" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.264s"><title>PRAPIROON | 19 Jul–23 Jul 2024 | 4.1 days | peak 55 kt | 980 hPa | STS</title></path>
+<path class="petal" d="M736.96,1039.89 A382.00,382.00 0 0 1 686.58,1020.28 L810.64,758.16 A92.00,92.00 0 0 0 822.77,762.88 Z" fill="#F2D17E" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.292s"><title>GAEMI | 19 Jul–27 Jul 2024 | 8.2 days | peak 105 kt | 935 hPa | SuperT</title></path>
+<path class="petal" d="M703.86,882.44 A253.75,253.75 0 0 1 683.31,866.32 L789.56,744.36 A92.00,92.00 0 0 0 797.02,750.21 Z" fill="#77835A" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.320s"><title>MARIA | 06 Aug–12 Aug 2024 | 6.0 days | peak 60 kt | 978 hPa | STS</title></path>
+<path class="petal" d="M735.51,817.12 A182.50,182.50 0 0 1 728.35,811.04 L788.68,743.58 A92.00,92.00 0 0 0 792.29,746.65 Z" fill="#5A7049" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.348s"><title>SON-TINH | 10 Aug–13 Aug 2024 | 3.0 days | peak 35 kt | 998 hPa | TS</title></path>
+<path class="petal" d="M621.23,944.49 A353.50,353.50 0 0 1 591.60,916.23 L782.75,737.78 A92.00,92.00 0 0 0 790.46,745.14 Z" fill="#ACAD79" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.376s"><title>AMPIL | 12 Aug–18 Aug 2024 | 6.8 days | peak 95 kt | 945 hPa | ST</title></path>
+<path class="petal" d="M731.30,813.62 A182.50,182.50 0 0 1 724.32,807.33 L786.64,741.71 A92.00,92.00 0 0 0 790.16,744.88 Z" fill="#5A7049" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.404s"><title>WUKONG | 12 Aug–15 Aug 2024 | 3.0 days | peak 35 kt | 998 hPa | TS</title></path>
+<path class="petal" d="M707.92,811.11 A196.75,196.75 0 0 1 701.11,803.61 L780.38,735.14 A92.00,92.00 0 0 0 783.57,738.64 Z" fill="#5A7049" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.432s"><title>JONGDARI | 18 Aug–21 Aug 2024 | 3.0 days | peak 40 kt | 995 hPa | TS</title></path>
+<path class="petal" d="M570.67,914.19 A367.75,367.75 0 0 1 531.52,858.88 L770.33,721.00 A92.00,92.00 0 0 0 780.12,734.84 Z" fill="#F2D17E" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.460s"><title>SHANSHAN | 21 Aug–01 Sep 2024 | 10.8 days | peak 100 kt | 940 hPa | SuperT</title></path>
+<path class="petal" d="M469.34,893.68 A439.00,439.00 0 0 1 445.51,845.61 L765.23,710.75 A92.00,92.00 0 0 0 770.23,720.83 Z" fill="#F2D17E" fill-opacity=".88" stroke="#58402E" stroke-width="2.8" style="animation-delay:0.488s"><title>YAGI | 01 Sep–08 Sep 2024 | 7.1 days | peak 125 kt | 915 hPa | SuperT</title></path>
+<path class="petal" d="M701.49,754.07 A168.25,168.25 0 0 1 700.48,752.15 L768.24,717.19 A92.00,92.00 0 0 0 768.79,718.24 Z" fill="#43593B" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.516s"><title>HONE | 03 Sep–03 Sep 2024 | 0.8 days | peak 30 kt | 1002 hPa | TD</title></path>
+<path class="petal" d="M688.91,760.77 A182.50,182.50 0 0 1 684.05,750.94 L766.34,713.28 A92.00,92.00 0 0 0 768.79,718.24 Z" fill="#5A7049" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.544s"><title>LEEPI | 03 Sep–06 Sep 2024 | 3.5 days | peak 35 kt | 1000 hPa | TS</title></path>
+<path class="petal" d="M560.18,787.11 A310.75,310.75 0 0 1 548.18,748.97 L760.64,696.90 A92.00,92.00 0 0 0 764.20,708.19 Z" fill="#929960" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.572s"><title>BEBINCA | 10 Sep–17 Sep 2024 | 7.5 days | peak 80 kt | 960 hPa | T</title></path>
+<path class="petal" d="M646.91,732.23 A211.00,211.00 0 0 1 642.42,712.83 L759.49,691.49 A92.00,92.00 0 0 0 761.45,699.95 Z" fill="#5A7049" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.600s"><title>PULASAN | 15 Sep–21 Sep 2024 | 5.5 days | peak 45 kt | 988 hPa | TS</title></path>
+<path class="petal" d="M673.92,722.99 A182.50,182.50 0 0 1 671.20,711.56 L759.87,693.43 A92.00,92.00 0 0 0 761.24,699.19 Z" fill="#5A7049" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.628s"><title>SOULIK | 16 Sep–19 Sep 2024 | 3.8 days | peak 35 kt | 994 hPa | TS</title></path>
+<path class="petal" d="M683.98,702.32 A168.25,168.25 0 0 1 683.81,701.25 L759.13,689.35 A92.00,92.00 0 0 0 759.22,689.94 Z" fill="#43593B" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.656s"><title>UNNAMED-0018 | 22 Sep–22 Sep 2024 | 0.4 days | peak 30 kt | 1000 hPa | TD</title></path>
+<path class="petal" d="M669.22,699.99 A182.50,182.50 0 0 1 668.04,689.08 L758.27,682.10 A92.00,92.00 0 0 0 758.87,687.60 Z" fill="#5A7049" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.684s"><title>CIMARON | 23 Sep–27 Sep 2024 | 3.5 days | peak 35 kt | 998 hPa | TS</title></path>
+<path class="petal" d="M597.38,698.92 A253.75,253.75 0 0 1 596.27,671.73 L758.01,673.82 A92.00,92.00 0 0 0 758.41,683.67 Z" fill="#77835A" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.712s"><title>JEBI | 26 Sep–02 Oct 2024 | 6.2 days | peak 60 kt | 980 hPa | STS</title></path>
+<path class="petal" d="M426.81,711.41 A424.75,424.75 0 0 1 425.57,658.60 L758.07,671.45 A92.00,92.00 0 0 0 758.34,682.89 Z" fill="#F2D17E" fill-opacity=".88" stroke="#58402E" stroke-width="2.8" style="animation-delay:0.740s"><title>KRATHON | 26 Sep–03 Oct 2024 | 7.2 days | peak 120 kt | 920 hPa | SuperT</title></path>
+<path class="petal" d="M668.04,660.92 A182.50,182.50 0 0 1 669.80,646.14 L759.16,660.45 A92.00,92.00 0 0 0 758.27,667.90 Z" fill="#5A7049" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.768s"><title>BARIJAT | 06 Oct–10 Oct 2024 | 4.8 days | peak 35 kt | 998 hPa | TS</title></path>
+<path class="petal" d="M596.50,588.04 A268.00,268.00 0 0 1 609.26,557.24 L767.36,634.58 A92.00,92.00 0 0 0 762.98,645.15 Z" fill="#929960" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.796s"><title>TRAMI | 20 Oct–28 Oct 2024 | 7.2 days | peak 65 kt | 975 hPa | T</title></path>
+<path class="petal" d="M470.41,518.72 A410.50,410.50 0 0 1 495.83,467.47 L770.62,628.49 A92.00,92.00 0 0 0 764.93,639.98 Z" fill="#F2D17E" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.824s"><title>KONG-REY | 24 Oct–01 Nov 2024 | 8.1 days | peak 115 kt | 925 hPa | SuperT</title></path>
+<path class="petal" d="M489.66,450.12 A424.75,424.75 0 0 1 529.16,396.66 L780.51,614.71 A92.00,92.00 0 0 0 771.95,626.29 Z" fill="#F2D17E" fill-opacity=".88" stroke="#58402E" stroke-width="2.8" style="animation-delay:0.852s"><title>YINXING | 03 Nov–12 Nov 2024 | 9.1 days | peak 120 kt | 920 hPa | SuperT</title></path>
+<path class="petal" d="M513.58,415.71 A424.75,424.75 0 0 1 567.55,357.77 L788.82,606.29 A92.00,92.00 0 0 0 777.13,618.84 Z" fill="#F2D17E" fill-opacity=".88" stroke="#58402E" stroke-width="2.8" style="animation-delay:0.880s"><title>MAN-YI | 08 Nov–19 Nov 2024 | 10.9 days | peak 120 kt | 920 hPa | SuperT</title></path>
+<path class="petal" d="M627.19,501.74 A282.25,282.25 0 0 1 645.35,480.62 L783.29,611.64 A92.00,92.00 0 0 0 777.37,618.53 Z" fill="#929960" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.908s"><title>TORAJI | 09 Nov–14 Nov 2024 | 5.8 days | peak 70 kt | 970 hPa | T</title></path>
+<path class="petal" d="M545.73,421.16 A396.25,396.25 0 0 1 569.21,395.41 L784.81,610.09 A92.00,92.00 0 0 0 779.35,616.07 Z" fill="#F2D17E" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.936s"><title>USAGI | 11 Nov–16 Nov 2024 | 5.1 days | peak 110 kt | 930 hPa | SuperT</title></path>
+<path class="petal" d="M822.68,508.98 A168.25,168.25 0 0 1 830.55,507.88 L839.36,583.62 A92.00,92.00 0 0 0 835.06,584.22 Z" fill="#43593B" fill-opacity=".88" stroke="#F0EFEB" stroke-width="1.1" style="animation-delay:0.964s"><title>PABUK | 22 Dec–25 Dec 2024 | 2.8 days | peak 30 kt | 1000 hPa | TD</title></path>
+<circle cx="850" cy="675" r="87" fill="#F0EFEB" stroke="#58402E" stroke-width="1.8"/>
+<text x="850.0" y="653.0" font-size="43" font-weight="800" text-anchor="middle">29</text>
+<text x="850.0" y="681.0" font-size="11.5" font-weight="750" letter-spacing=".12em" text-anchor="middle" fill="#7B6B5F">CYCLONE TRACKS</text>
+<text x="850.0" y="710.0" font-size="16" font-weight="800" text-anchor="middle">125 KT MAX</text>
+<line x1="449.5" y1="873.6" x2="372.5" y2="911.8" stroke="#58402E" stroke-width="1.3"/>
+<text x="372.5" y="907.8" font-size="12.5" font-weight="800" text-anchor="end">YAGI · 125 KT</text>
+<line x1="417.4" y1="685.2" x2="313.1" y2="687.7" stroke="#58402E" stroke-width="1.3"/>
+<text x="313.1" y="683.7" font-size="12.5" font-weight="800" text-anchor="end">KRATHON · 120 KT</text>
+<line x1="501.9" y1="417.9" x2="414.9" y2="353.5" stroke="#58402E" stroke-width="1.3"/>
+<text x="414.9" y="349.5" font-size="12.5" font-weight="800" text-anchor="end">YINXING · 120 KT</text>
+<line x1="533.4" y1="380.0" x2="451.2" y2="303.5" stroke="#58402E" stroke-width="1.3"/>
+<text x="451.2" y="299.5" font-size="12.5" font-weight="800" text-anchor="end">MAN-YI · 120 KT</text>
+<rect x="70" y="1022" width="32" height="13" rx="6.5" fill="#43593B"/>
+<text x="113.0" y="1033.0" font-size="11.5" font-weight="750" fill="#7B6B5F">TD</text>
+<rect x="222" y="1022" width="32" height="13" rx="6.5" fill="#5A7049"/>
+<text x="265.0" y="1033.0" font-size="11.5" font-weight="750" fill="#7B6B5F">TS</text>
+<rect x="374" y="1022" width="32" height="13" rx="6.5" fill="#77835A"/>
+<text x="417.0" y="1033.0" font-size="11.5" font-weight="750" fill="#7B6B5F">STS</text>
+<rect x="526" y="1022" width="32" height="13" rx="6.5" fill="#929960"/>
+<text x="569.0" y="1033.0" font-size="11.5" font-weight="750" fill="#7B6B5F">T</text>
+<rect x="678" y="1022" width="32" height="13" rx="6.5" fill="#ACAD79"/>
+<text x="721.0" y="1033.0" font-size="11.5" font-weight="750" fill="#7B6B5F">ST</text>
+<rect x="830" y="1022" width="32" height="13" rx="6.5" fill="#F2D17E"/>
+<text x="873.0" y="1033.0" font-size="11.5" font-weight="750" fill="#7B6B5F">SUPERT</text>
+<text x="70.0" y="1068.0" font-size="11.5" font-weight="700" letter-spacing=".08em" fill="#7B6B5F">OUTLINED PETAL = ≥120 KT · HOVER A PETAL FOR NAME, DURATION, WIND AND PRESSURE</text>
+<text x="70.0" y="1158.0" font-size="12.5" font-weight="650" letter-spacing=".11em" fill="#7B6B5F">RADIAL PATCHWORK · PALM · HKO 2024 BEST TRACK DATA (POST ANALYSIS)</text>
+</svg>
