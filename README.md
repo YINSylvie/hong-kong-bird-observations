@@ -1,34 +1,32 @@
-# The phenomenon
+# Currents of the 2024 Typhoon Season
 
-<!-- This is the SD5913 assignment 2 template. Everything in this file is yours to
-replace, and the check counts words: comments like this one are not words, so
-delete each one as you write. Start with the heading: name the phenomenon.
+## English
 
-Then, in this order, at least 150 words in total.
+### The phenomenon
 
-New to folders, paths, or the files here whose names start with a dot? Read
-https://github.com/sd5913/pfad/blob/2026/reference/files.md first. Ten minutes. -->
+Tropical cyclones are moving systems of wind and low pressure. Their tracks curve across the western North Pacific and the South China Sea while their intensity grows and weakens. I chose this phenomenon because a conventional track map shows position well but often makes speed and intensity feel secondary. This visualisation treats every six-hour movement as a current-like arrow, so the season appears as a field of motion rather than a collection of isolated storm symbols.
 
-![what the picture is](out/plot.png)
+### Data source
 
-## The phenomenon
+The raw data are the Hong Kong Observatory's **Tropical cyclone best track data (post analysis) for 2024**:
 
-<!-- What goes up and down, and why you looked at it. -->
+- [Dataset page on DATA.GOV.HK](https://data.gov.hk/en-data/dataset/hk-hko-rss-tropical-cyclone-best-track-data)
+- [Original 2024 CSV file](https://data.weather.gov.hk/weatherAPI/hko_data/tc/HKO2024BST.csv)
 
-## The source
+The unchanged file is committed as `data/HKO2024BST.csv`. It contains **652 observation rows covering 29 HKO tracks**. Each row is one analysed cyclone position at a UTC time. It records the cyclone name and codes, latitude and longitude in 0.01 degrees, intensity category, estimated minimum central pressure in hPa, and estimated maximum surface wind in knots.
 
-<!-- A link to the page or endpoint the file came from, and one line on what is in
-the file: how many rows, what a row means, what the units are. -->
+### The picture
 
-## What the picture shows
+![Still image of the 2024 tropical cyclone tracks](out/hko2024_currents.png)
 
-<!-- Two or three sentences. Including what it hides: every transformation throws
-something away, and naming what yours threw away is the easiest way to sound like
-you know what you did. -->
+![Animated 2024 tropical cyclone tracks](out/hko2024_currents.webp)
 
-## Run it
+The arrow direction shows how a cyclone moved between consecutive observations. Colour changes from teal to orange as maximum surface wind increases, while thicker strokes also indicate stronger wind. The animation reveals when each track entered the season and allows the paths to accumulate over time.
 
-```
-uv run fetch.py
-uv run plot.py
+The picture deliberately hides coastlines, political borders, storm size, rainfall, damage and forecast uncertainty. It also samples the animation timeline to approximately one frame per eighteen hours, although every committed observation still contributes to the final tracks. The result is therefore a picture of **movement and intensity**, not a complete account of each cyclone's impacts.
+
+### How to run
+
+```bash
+uv run plot_currents.py
 ```
