@@ -1,0 +1,254 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1120" viewBox="0 0 1800 1120" role="img" aria-labelledby="chart-title chart-desc">
+<style>
+      text{font-family:Inter,"Segoe UI",Arial,sans-serif;fill:#1F1E1C}
+      .fade{opacity:0;animation:fade .9s ease forwards}
+      .draw{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 1s cubic-bezier(.4,0,.2,1) forwards}
+      .pop{transform-box:fill-box;transform-origin:center;transform:scale(0);animation:pop .5s cubic-bezier(.2,.7,.3,1.3) forwards}
+      .storm:hover .life{stroke:#22211F;stroke-width:3.2}
+      .storm:hover .peak{stroke:#F0F0EE;stroke-width:2.2}
+      @keyframes fade{to{opacity:1}}
+      @keyframes draw{to{stroke-dashoffset:0}}
+      @keyframes pop{to{transform:scale(1)}}
+      @media(prefers-reduced-motion:reduce){.fade,.draw,.pop{animation:none;opacity:1;stroke-dasharray:none;stroke-dashoffset:0;transform:none}}
+    </style>
+<title id="chart-title">Yagi reached 125 kt, the strongest storm of 2024</title>
+<desc id="chart-desc">Twenty-nine tropical cyclone lifelines from May to December 2024. Each peak circle is sized and shaded by maximum wind speed.</desc>
+<rect width="1800" height="1120" rx="24" fill="#F0F0EE"/>
+<text x="70.0" y="62.0" font-size="15" font-weight="700" letter-spacing=".14em" fill="#6E6D66">LUPI EDITORIAL · L11 TREND LINEAGE</text>
+<text x="70.0" y="115.0" font-size="37" font-weight="700" letter-spacing="-.02em">YAGI reached 125 kt — the strongest storm of 2024</text>
+<text x="70.0" y="153.0" font-size="18" font-weight="400" fill="#6E6D66">Each column = one cyclone life · ○ start/end · ● peak · circle size and shade = peak wind (kt) · orange = annual maximum</text>
+<text x="70.0" y="184.0" font-size="16" font-weight="600" fill="#6E6D66">Twenty-nine HKO tracks · 652 six-hourly observations · May–December 2024</text>
+<line class="fade" x1="125" y1="245.0" x2="1705" y2="245.0" stroke="#CFCFC9" stroke-width="1.2" style="animation-delay:0.000s"/>
+<text x="110.0" y="250.0" font-size="13" font-weight="700" text-anchor="end" fill="#6E6D66" class="fade" style="animation-delay:0.000s">MAY</text>
+<line class="fade" x1="125" y1="321.6" x2="1705" y2="321.6" stroke="#CFCFC9" stroke-width="1.2" style="animation-delay:0.035s"/>
+<text x="110.0" y="326.6" font-size="13" font-weight="700" text-anchor="end" fill="#6E6D66" class="fade" style="animation-delay:0.035s">JUN</text>
+<line class="fade" x1="125" y1="395.6" x2="1705" y2="395.6" stroke="#CFCFC9" stroke-width="1.2" style="animation-delay:0.070s"/>
+<text x="110.0" y="400.6" font-size="13" font-weight="700" text-anchor="end" fill="#6E6D66" class="fade" style="animation-delay:0.070s">JUL</text>
+<line class="fade" x1="125" y1="472.2" x2="1705" y2="472.2" stroke="#CFCFC9" stroke-width="1.2" style="animation-delay:0.105s"/>
+<text x="110.0" y="477.2" font-size="13" font-weight="700" text-anchor="end" fill="#6E6D66" class="fade" style="animation-delay:0.105s">AUG</text>
+<line class="fade" x1="125" y1="548.7" x2="1705" y2="548.7" stroke="#CFCFC9" stroke-width="1.2" style="animation-delay:0.140s"/>
+<text x="110.0" y="553.7" font-size="13" font-weight="700" text-anchor="end" fill="#6E6D66" class="fade" style="animation-delay:0.140s">SEP</text>
+<line class="fade" x1="125" y1="622.8" x2="1705" y2="622.8" stroke="#CFCFC9" stroke-width="1.2" style="animation-delay:0.175s"/>
+<text x="110.0" y="627.8" font-size="13" font-weight="700" text-anchor="end" fill="#6E6D66" class="fade" style="animation-delay:0.175s">OCT</text>
+<line class="fade" x1="125" y1="699.4" x2="1705" y2="699.4" stroke="#CFCFC9" stroke-width="1.2" style="animation-delay:0.210s"/>
+<text x="110.0" y="704.4" font-size="13" font-weight="700" text-anchor="end" fill="#6E6D66" class="fade" style="animation-delay:0.210s">NOV</text>
+<line class="fade" x1="125" y1="773.4" x2="1705" y2="773.4" stroke="#CFCFC9" stroke-width="1.2" style="animation-delay:0.245s"/>
+<text x="110.0" y="778.4" font-size="13" font-weight="700" text-anchor="end" fill="#6E6D66" class="fade" style="animation-delay:0.245s">DEC</text>
+<line class="fade" x1="125" y1="850.0" x2="1705" y2="850.0" stroke="#CFCFC9" stroke-width="1.2" style="animation-delay:0.280s"/>
+<text x="110.0" y="855.0" font-size="13" font-weight="700" text-anchor="end" fill="#6E6D66" class="fade" style="animation-delay:0.280s">2025</text>
+<g class="storm"><title>EWINIAR (HKO 0001) | 24 May–30 May 2024 | peak 75 kt, 965 hPa, T | 25 records</title>
+<line class="life draw" pathLength="1" x1="145.0" y1="301.8" x2="145.0" y2="316.6" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.300s"/>
+<circle class="pop" cx="145.0" cy="301.8" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.380s"/>
+<circle class="peak pop" cx="145.0" cy="308.6" r="8.0" fill="#4F4E49" style="animation-delay:0.430s"/>
+<circle class="pop" cx="145.0" cy="316.6" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.480s"/>
+</g>
+<text x="145.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 145.0 888.0)" class="fade" style="animation-delay:0.500s">EWINIAR</text>
+<g class="storm"><title>MALIKSI (HKO 0002) | 30 May–01 Jun 2024 | peak 35 kt, 996 hPa, TS | 9 records</title>
+<line class="life draw" pathLength="1" x1="200.0" y1="317.5" x2="200.0" y2="322.2" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.325s"/>
+<circle class="pop" cx="200.0" cy="317.5" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.405s"/>
+<circle class="peak pop" cx="200.0" cy="319.7" r="4.8" fill="#C0BFB7" style="animation-delay:0.455s"/>
+<circle class="pop" cx="200.0" cy="322.2" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.505s"/>
+</g>
+<text x="200.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 200.0 888.0)" class="fade" style="animation-delay:0.525s">MALIKSI</text>
+<g class="storm"><title>UNNAMED-0003 (HKO 0003) | 13 Jul–15 Jul 2024 | peak 25 kt, 998 hPa, TD | 10 records</title>
+<line class="life draw" pathLength="1" x1="255.0" y1="426.2" x2="255.0" y2="431.1" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.350s"/>
+<circle class="pop" cx="255.0" cy="426.2" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.430s"/>
+<circle class="peak pop" cx="255.0" cy="426.2" r="4.0" fill="#C0BFB7" style="animation-delay:0.480s"/>
+<circle class="pop" cx="255.0" cy="431.1" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.530s"/>
+</g>
+<text x="255.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 255.0 888.0)" class="fade" style="animation-delay:0.550s">UNNAMED 0003</text>
+<g class="storm"><title>PRAPIROON (HKO 0004) | 19 Jul–23 Jul 2024 | peak 55 kt, 980 hPa, STS | 18 records</title>
+<line class="life draw" pathLength="1" x1="310.0" y1="440.7" x2="310.0" y2="450.9" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.375s"/>
+<circle class="pop" cx="310.0" cy="440.7" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.455s"/>
+<circle class="peak pop" cx="310.0" cy="448.7" r="6.4" fill="#8F8E86" style="animation-delay:0.505s"/>
+<circle class="pop" cx="310.0" cy="450.9" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.555s"/>
+</g>
+<text x="310.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 310.0 888.0)" class="fade" style="animation-delay:0.575s">PRAPIROON</text>
+<g class="storm"><title>GAEMI (HKO 0005) | 19 Jul–27 Jul 2024 | peak 105 kt, 935 hPa, SuperT | 34 records</title>
+<line class="life draw" pathLength="1" x1="365.0" y1="441.3" x2="365.0" y2="461.7" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.400s"/>
+<circle class="pop" cx="365.0" cy="441.3" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.480s"/>
+<circle class="peak pop" cx="365.0" cy="453.0" r="10.4" fill="#22211F" style="animation-delay:0.530s"/>
+<circle class="pop" cx="365.0" cy="461.7" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.580s"/>
+</g>
+<text x="365.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#22211F" transform="rotate(-52 365.0 888.0)" class="fade" style="animation-delay:0.600s">GAEMI</text>
+<g class="storm"><title>MARIA (HKO 0006) | 06 Aug–12 Aug 2024 | peak 60 kt, 978 hPa, STS | 25 records</title>
+<line class="life draw" pathLength="1" x1="420.0" y1="486.4" x2="420.0" y2="501.2" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.425s"/>
+<circle class="pop" cx="420.0" cy="486.4" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.505s"/>
+<circle class="peak pop" cx="420.0" cy="491.3" r="6.8" fill="#8F8E86" style="animation-delay:0.555s"/>
+<circle class="pop" cx="420.0" cy="501.2" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.605s"/>
+</g>
+<text x="420.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 420.0 888.0)" class="fade" style="animation-delay:0.625s">MARIA</text>
+<g class="storm"><title>SON-TINH (HKO 0007) | 10 Aug–13 Aug 2024 | peak 35 kt, 998 hPa, TS | 13 records</title>
+<line class="life draw" pathLength="1" x1="475.0" y1="495.6" x2="475.0" y2="503.1" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.450s"/>
+<circle class="pop" cx="475.0" cy="495.6" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.530s"/>
+<circle class="peak pop" cx="475.0" cy="498.1" r="4.8" fill="#C0BFB7" style="animation-delay:0.580s"/>
+<circle class="pop" cx="475.0" cy="503.1" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.630s"/>
+</g>
+<text x="475.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 475.0 888.0)" class="fade" style="animation-delay:0.650s">SON-TINH</text>
+<g class="storm"><title>AMPIL (HKO 0008) | 12 Aug–18 Aug 2024 | peak 95 kt, 945 hPa, ST | 28 records</title>
+<line class="life draw" pathLength="1" x1="530.0" y1="499.3" x2="530.0" y2="516.0" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.475s"/>
+<circle class="pop" cx="530.0" cy="499.3" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.555s"/>
+<circle class="peak pop" cx="530.0" cy="509.2" r="9.6" fill="#4F4E49" style="animation-delay:0.605s"/>
+<circle class="pop" cx="530.0" cy="516.0" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.655s"/>
+</g>
+<text x="530.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 530.0 888.0)" class="fade" style="animation-delay:0.675s">AMPIL</text>
+<g class="storm"><title>WUKONG (HKO 0009) | 12 Aug–15 Aug 2024 | peak 35 kt, 998 hPa, TS | 13 records</title>
+<line class="life draw" pathLength="1" x1="585.0" y1="500.0" x2="585.0" y2="507.4" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.500s"/>
+<circle class="pop" cx="585.0" cy="500.0" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.580s"/>
+<circle class="peak pop" cx="585.0" cy="501.8" r="4.8" fill="#C0BFB7" style="animation-delay:0.630s"/>
+<circle class="pop" cx="585.0" cy="507.4" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.680s"/>
+</g>
+<text x="585.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 585.0 888.0)" class="fade" style="animation-delay:0.700s">WUKONG</text>
+<g class="storm"><title>JONGDARI (HKO 0010) | 18 Aug–21 Aug 2024 | peak 40 kt, 995 hPa, TS | 13 records</title>
+<line class="life draw" pathLength="1" x1="640.0" y1="514.2" x2="640.0" y2="521.6" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.525s"/>
+<circle class="pop" cx="640.0" cy="514.2" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.605s"/>
+<circle class="peak pop" cx="640.0" cy="518.5" r="5.2" fill="#C0BFB7" style="animation-delay:0.655s"/>
+<circle class="pop" cx="640.0" cy="521.6" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.705s"/>
+</g>
+<text x="640.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 640.0 888.0)" class="fade" style="animation-delay:0.725s">JONGDARI</text>
+<g class="storm"><title>SHANSHAN (HKO 0011) | 21 Aug–01 Sep 2024 | peak 100 kt, 940 hPa, SuperT | 44 records</title>
+<line class="life draw" pathLength="1" x1="695.0" y1="522.2" x2="695.0" y2="548.7" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.550s"/>
+<circle class="pop" cx="695.0" cy="522.2" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.630s"/>
+<circle class="peak pop" cx="695.0" cy="537.6" r="10.0" fill="#22211F" style="animation-delay:0.680s"/>
+<circle class="pop" cx="695.0" cy="548.7" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.730s"/>
+</g>
+<text x="695.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#22211F" transform="rotate(-52 695.0 888.0)" class="fade" style="animation-delay:0.750s">SHANSHAN</text>
+<g class="storm"><title>YAGI (HKO 0012) | 01 Sep–08 Sep 2024 | peak 125 kt, 915 hPa, SuperT | 31 records</title>
+<line class="life draw" pathLength="1" x1="750.0" y1="549.0" x2="750.0" y2="566.6" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.575s"/>
+<circle class="pop" cx="750.0" cy="549.0" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.655s"/>
+<circle class="peak pop" cx="750.0" cy="561.1" r="12.0" fill="#F5572F" style="animation-delay:0.705s"/>
+<circle class="pop" cx="750.0" cy="566.6" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.755s"/>
+</g>
+<text x="750.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#22211F" transform="rotate(-52 750.0 888.0)" class="fade" style="animation-delay:0.775s">YAGI</text>
+<g class="storm"><title>HONE (HKO 0013) | 03 Sep–03 Sep 2024 | peak 30 kt, 1002 hPa, TD | 4 records</title>
+<line class="life draw" pathLength="1" x1="805.0" y1="553.7" x2="805.0" y2="555.5" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.600s"/>
+<circle class="pop" cx="805.0" cy="553.7" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.680s"/>
+<circle class="peak pop" cx="805.0" cy="553.7" r="4.4" fill="#C0BFB7" style="animation-delay:0.730s"/>
+<circle class="pop" cx="805.0" cy="555.5" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.780s"/>
+</g>
+<text x="805.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 805.0 888.0)" class="fade" style="animation-delay:0.800s">HONE</text>
+<g class="storm"><title>LEEPI (HKO 0014) | 03 Sep–06 Sep 2024 | peak 35 kt, 1000 hPa, TS | 15 records</title>
+<line class="life draw" pathLength="1" x1="860.0" y1="553.7" x2="860.0" y2="562.3" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.625s"/>
+<circle class="pop" cx="860.0" cy="553.7" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.705s"/>
+<circle class="peak pop" cx="860.0" cy="558.6" r="4.8" fill="#C0BFB7" style="animation-delay:0.755s"/>
+<circle class="pop" cx="860.0" cy="562.3" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.805s"/>
+</g>
+<text x="860.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 860.0 888.0)" class="fade" style="animation-delay:0.825s">LEEPI</text>
+<g class="storm"><title>BEBINCA (HKO 0015) | 10 Sep–17 Sep 2024 | peak 80 kt, 960 hPa, T | 31 records</title>
+<line class="life draw" pathLength="1" x1="915.0" y1="571.0" x2="915.0" y2="589.5" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.650s"/>
+<circle class="pop" cx="915.0" cy="571.0" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.730s"/>
+<circle class="peak pop" cx="915.0" cy="584.5" r="8.4" fill="#4F4E49" style="animation-delay:0.780s"/>
+<circle class="pop" cx="915.0" cy="589.5" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.830s"/>
+</g>
+<text x="915.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 915.0 888.0)" class="fade" style="animation-delay:0.850s">BEBINCA</text>
+<g class="storm"><title>PULASAN (HKO 0016) | 15 Sep–21 Sep 2024 | peak 45 kt, 988 hPa, TS | 23 records</title>
+<line class="life draw" pathLength="1" x1="970.0" y1="584.5" x2="970.0" y2="598.1" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.675s"/>
+<circle class="pop" cx="970.0" cy="584.5" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.755s"/>
+<circle class="peak pop" cx="970.0" cy="588.2" r="5.6" fill="#8F8E86" style="animation-delay:0.805s"/>
+<circle class="pop" cx="970.0" cy="598.1" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.855s"/>
+</g>
+<text x="970.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 970.0 888.0)" class="fade" style="animation-delay:0.875s">PULASAN</text>
+<g class="storm"><title>SOULIK (HKO 0017) | 16 Sep–19 Sep 2024 | peak 35 kt, 994 hPa, TS | 16 records</title>
+<line class="life draw" pathLength="1" x1="1025.0" y1="585.8" x2="1025.0" y2="595.0" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.700s"/>
+<circle class="pop" cx="1025.0" cy="585.8" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.780s"/>
+<circle class="peak pop" cx="1025.0" cy="592.6" r="4.8" fill="#C0BFB7" style="animation-delay:0.830s"/>
+<circle class="pop" cx="1025.0" cy="595.0" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.880s"/>
+</g>
+<text x="1025.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 1025.0 888.0)" class="fade" style="animation-delay:0.900s">SOULIK</text>
+<g class="storm"><title>UNNAMED-0018 (HKO 0018) | 22 Sep–22 Sep 2024 | peak 30 kt, 1000 hPa, TD | 3 records</title>
+<line class="life draw" pathLength="1" x1="1080.0" y1="600.6" x2="1080.0" y2="601.5" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.725s"/>
+<circle class="pop" cx="1080.0" cy="600.6" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.805s"/>
+<circle class="peak pop" cx="1080.0" cy="600.6" r="4.4" fill="#C0BFB7" style="animation-delay:0.855s"/>
+<circle class="pop" cx="1080.0" cy="601.5" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.905s"/>
+</g>
+<text x="1080.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 1080.0 888.0)" class="fade" style="animation-delay:0.925s">UNNAMED 0018</text>
+<g class="storm"><title>CIMARON (HKO 0019) | 23 Sep–27 Sep 2024 | peak 35 kt, 998 hPa, TS | 15 records</title>
+<line class="life draw" pathLength="1" x1="1135.0" y1="604.3" x2="1135.0" y2="612.9" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.750s"/>
+<circle class="pop" cx="1135.0" cy="604.3" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.830s"/>
+<circle class="peak pop" cx="1135.0" cy="608.0" r="4.8" fill="#C0BFB7" style="animation-delay:0.880s"/>
+<circle class="pop" cx="1135.0" cy="612.9" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.930s"/>
+</g>
+<text x="1135.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 1135.0 888.0)" class="fade" style="animation-delay:0.950s">CIMARON</text>
+<g class="storm"><title>JEBI (HKO 0020) | 26 Sep–02 Oct 2024 | peak 60 kt, 980 hPa, STS | 26 records</title>
+<line class="life draw" pathLength="1" x1="1190.0" y1="610.5" x2="1190.0" y2="625.9" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.775s"/>
+<circle class="pop" cx="1190.0" cy="610.5" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.855s"/>
+<circle class="peak pop" cx="1190.0" cy="622.8" r="6.8" fill="#8F8E86" style="animation-delay:0.905s"/>
+<circle class="pop" cx="1190.0" cy="625.9" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.955s"/>
+</g>
+<text x="1190.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 1190.0 888.0)" class="fade" style="animation-delay:0.975s">JEBI</text>
+<g class="storm"><title>KRATHON (HKO 0021) | 26 Sep–03 Oct 2024 | peak 120 kt, 920 hPa, SuperT | 31 records</title>
+<line class="life draw" pathLength="1" x1="1245.0" y1="611.7" x2="1245.0" y2="629.6" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.800s"/>
+<circle class="pop" cx="1245.0" cy="611.7" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.880s"/>
+<circle class="peak pop" cx="1245.0" cy="622.2" r="11.6" fill="#22211F" style="animation-delay:0.930s"/>
+<circle class="pop" cx="1245.0" cy="629.6" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:0.980s"/>
+</g>
+<text x="1245.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#22211F" transform="rotate(-52 1245.0 888.0)" class="fade" style="animation-delay:1.000s">KRATHON</text>
+<g class="storm"><title>BARIJAT (HKO 0022) | 06 Oct–10 Oct 2024 | peak 35 kt, 998 hPa, TS | 20 records</title>
+<line class="life draw" pathLength="1" x1="1300.0" y1="635.2" x2="1300.0" y2="646.9" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.825s"/>
+<circle class="pop" cx="1300.0" cy="635.2" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.905s"/>
+<circle class="peak pop" cx="1300.0" cy="643.8" r="4.8" fill="#C0BFB7" style="animation-delay:0.955s"/>
+<circle class="pop" cx="1300.0" cy="646.9" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:1.005s"/>
+</g>
+<text x="1300.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 1300.0 888.0)" class="fade" style="animation-delay:1.025s">BARIJAT</text>
+<g class="storm"><title>TRAMI (HKO 0023) | 20 Oct–28 Oct 2024 | peak 65 kt, 975 hPa, T | 30 records</title>
+<line class="life draw" pathLength="1" x1="1355.0" y1="671.6" x2="1355.0" y2="689.5" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.850s"/>
+<circle class="pop" cx="1355.0" cy="671.6" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.930s"/>
+<circle class="peak pop" cx="1355.0" cy="685.2" r="7.2" fill="#4F4E49" style="animation-delay:0.980s"/>
+<circle class="pop" cx="1355.0" cy="689.5" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:1.030s"/>
+</g>
+<text x="1355.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 1355.0 888.0)" class="fade" style="animation-delay:1.050s">TRAMI</text>
+<g class="storm"><title>KONG-REY (HKO 0024) | 24 Oct–01 Nov 2024 | peak 115 kt, 925 hPa, SuperT | 34 records</title>
+<line class="life draw" pathLength="1" x1="1410.0" y1="680.2" x2="1410.0" y2="700.3" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.875s"/>
+<circle class="pop" cx="1410.0" cy="680.2" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.955s"/>
+<circle class="peak pop" cx="1410.0" cy="694.4" r="11.2" fill="#22211F" style="animation-delay:1.005s"/>
+<circle class="pop" cx="1410.0" cy="700.3" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:1.055s"/>
+</g>
+<text x="1410.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#22211F" transform="rotate(-52 1410.0 888.0)" class="fade" style="animation-delay:1.075s">KONG-REY</text>
+<g class="storm"><title>YINXING (HKO 0025) | 03 Nov–12 Nov 2024 | peak 120 kt, 920 hPa, SuperT | 38 records</title>
+<line class="life draw" pathLength="1" x1="1465.0" y1="704.3" x2="1465.0" y2="726.8" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.900s"/>
+<circle class="pop" cx="1465.0" cy="704.3" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.980s"/>
+<circle class="peak pop" cx="1465.0" cy="714.8" r="11.6" fill="#22211F" style="animation-delay:1.030s"/>
+<circle class="pop" cx="1465.0" cy="726.8" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:1.080s"/>
+</g>
+<text x="1465.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#22211F" transform="rotate(-52 1465.0 888.0)" class="fade" style="animation-delay:1.100s">YINXING</text>
+<g class="storm"><title>MAN-YI (HKO 0026) | 08 Nov–19 Nov 2024 | peak 120 kt, 920 hPa, SuperT | 45 records</title>
+<line class="life draw" pathLength="1" x1="1520.0" y1="718.5" x2="1520.0" y2="745.4" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.925s"/>
+<circle class="pop" cx="1520.0" cy="718.5" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:1.005s"/>
+<circle class="peak pop" cx="1520.0" cy="736.4" r="11.6" fill="#22211F" style="animation-delay:1.055s"/>
+<circle class="pop" cx="1520.0" cy="745.4" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:1.105s"/>
+</g>
+<text x="1520.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#22211F" transform="rotate(-52 1520.0 888.0)" class="fade" style="animation-delay:1.125s">MAN-YI</text>
+<g class="storm"><title>TORAJI (HKO 0027) | 09 Nov–14 Nov 2024 | peak 70 kt, 970 hPa, T | 24 records</title>
+<line class="life draw" pathLength="1" x1="1575.0" y1="719.1" x2="1575.0" y2="733.3" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.950s"/>
+<circle class="pop" cx="1575.0" cy="719.1" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:1.030s"/>
+<circle class="peak pop" cx="1575.0" cy="724.1" r="7.6" fill="#4F4E49" style="animation-delay:1.080s"/>
+<circle class="pop" cx="1575.0" cy="733.3" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:1.130s"/>
+</g>
+<text x="1575.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 1575.0 888.0)" class="fade" style="animation-delay:1.150s">TORAJI</text>
+<g class="storm"><title>USAGI (HKO 0028) | 11 Nov–16 Nov 2024 | peak 110 kt, 930 hPa, SuperT | 22 records</title>
+<line class="life draw" pathLength="1" x1="1630.0" y1="724.1" x2="1630.0" y2="736.7" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:0.975s"/>
+<circle class="pop" cx="1630.0" cy="724.1" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:1.055s"/>
+<circle class="peak pop" cx="1630.0" cy="730.9" r="10.8" fill="#22211F" style="animation-delay:1.105s"/>
+<circle class="pop" cx="1630.0" cy="736.7" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:1.155s"/>
+</g>
+<text x="1630.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#22211F" transform="rotate(-52 1630.0 888.0)" class="fade" style="animation-delay:1.175s">USAGI</text>
+<g class="storm"><title>PABUK (HKO 0029) | 22 Dec–25 Dec 2024 | peak 30 kt, 1000 hPa, TD | 12 records</title>
+<line class="life draw" pathLength="1" x1="1685.0" y1="826.5" x2="1685.0" y2="833.3" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:1.000s"/>
+<circle class="pop" cx="1685.0" cy="826.5" r="3.2" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.8" style="animation-delay:1.080s"/>
+<circle class="peak pop" cx="1685.0" cy="827.8" r="4.4" fill="#C0BFB7" style="animation-delay:1.130s"/>
+<circle class="pop" cx="1685.0" cy="833.3" r="2.8" fill="#F0F0EE" stroke="#8F8E86" stroke-width="1.6" style="animation-delay:1.180s"/>
+</g>
+<text x="1685.0" y="888.0" font-size="11.5" font-weight="650" text-anchor="end" fill="#6E6D66" transform="rotate(-52 1685.0 888.0)" class="fade" style="animation-delay:1.200s">PABUK</text>
+<path d="M761.0,556.1 L820.0,523.1" fill="none" stroke="#22211F" stroke-width="1.4"/>
+<text x="830.0" y="519.1" font-size="15" font-weight="800">YAGI · 125 KT</text>
+<text x="830.0" y="541.1" font-size="11" font-weight="650" letter-spacing=".08em" fill="#6E6D66">6 SEP · 915 HPA · SUPER TYPHOON</text>
+<circle cx="90" cy="1028" r="4.0" fill="#C0BFB7"/>
+<text x="112.0" y="1033.0" font-size="12" font-weight="700" fill="#6E6D66">25 KT</text>
+<circle cx="240" cy="1028" r="7.2" fill="#4F4E49"/>
+<text x="262.0" y="1033.0" font-size="12" font-weight="700" fill="#6E6D66">65 KT</text>
+<circle cx="390" cy="1028" r="10.0" fill="#22211F"/>
+<text x="412.0" y="1033.0" font-size="12" font-weight="700" fill="#6E6D66">100 KT</text>
+<circle cx="540" cy="1028" r="12.0" fill="#22211F"/>
+<text x="562.0" y="1033.0" font-size="12" font-weight="700" fill="#6E6D66">125 KT</text>
+<text x="70.0" y="1086.0" font-size="13" font-weight="600" letter-spacing=".10em" fill="#8F8E86">TREND LINEAGE · WIRE · HKO 2024 BEST TRACK DATA (POST ANALYSIS)</text>
+</svg>
