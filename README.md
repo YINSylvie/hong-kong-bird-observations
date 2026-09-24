@@ -25,6 +25,9 @@ The unchanged file is committed as `data/HKO2024BST.csv`. It contains **652 obse
 
 ![Animated 2024 tropical cyclone tracks](out/hko2024_currents.webp)
 
+![Animated 2024 tropical cyclone tracks](out/hko2024_cyclone_galaxy.webp)
+
+
 The arrow direction shows how a cyclone moved between consecutive observations. Colour changes from teal to orange as maximum surface wind increases, while thicker strokes also indicate stronger wind. The animation reveals when each track entered the season and allows the paths to accumulate over time.
 
 The picture deliberately hides coastlines, political borders, storm size, rainfall, damage and forecast uncertainty. It also samples the animation timeline to approximately one frame per eighteen hours, although every committed observation still contributes to the final tracks. The result is therefore a picture of **movement and intensity**, not a complete account of each cyclone's impacts.
